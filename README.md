@@ -47,10 +47,9 @@
         <h5><a>Follow me around the web:</a></h5>
     </div>
     <div>
-        <a href="https://www.linkedin.com/in/denizfatih" target="_blank">
+        <a href="https://www.linkedin.com/in/omer-isik-044154228" target="_blank">
             <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        
        
     </div>
 </div>
@@ -59,15 +58,15 @@
 <div align="center">
     <div>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&row=1&column=7&theme=darkhub" alt="fdeniz07" />
+            <img src="https://github-profile-trophy.vercel.app/?username=Krpiszez&row=1&column=7&theme=darkhub" alt="Krpiszez" />
         </a>
     </div>
     <div>
-        <a href="https://github.com/fdeniz07">
+        <a href="https://github.com/Krpiszez">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
         </a>
         <a href="https://git.io/streak-stats">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fdeniz07&theme=radical&date_format=j%20M%5B%20Y%5D" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Krpiszez&theme=radical&date_format=j%20M%5B%20Y%5D" />
         </a>
     </div>
     <div>
