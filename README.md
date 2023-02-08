@@ -63,15 +63,15 @@
     </div>
     <div>
         <a href="https://github.com/Krpiszez">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krpiszez&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
         </a>
         <a href="https://git.io/streak-stats">
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Krpiszez&theme=radical&date_format=j%20M%5B%20Y%5D" />
         </a>
     </div>
     <div>
-        <a href="https://github.com/fdeniz07">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+        <a href="https://github.com/Krpiszez">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krpiszez&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
         </a>
     </div>
     <div>
