@@ -36,11 +36,11 @@
 
 <div align="center">
     <div>
-        <a href="https://github.com/fdeniz07/github-profile-views-counter">
-            <img align="center" src="https://komarev.com/ghpvc/?username=fdeniz07&color=blue">
+        <a href="https://github.com/Krpiszez/github-profile-views-counter">
+            <img align="center" src="https://komarev.com/ghpvc/?username=Krpiszez&color=blue">
         </a>
         <a href="https://github.com/fdeniz07?tab=followers">
-            <img align="center"  src="https://img.shields.io/github/followers/fdeniz07?style=flat-square&color=red">
+            <img align="center"  src="https://img.shields.io/github/followers/Krpiszez?style=flat-square&color=red">
         </a>
     </div>
     <div>
@@ -50,7 +50,6 @@
         <a href="https://www.linkedin.com/in/omer-isik-044154228" target="_blank">
             <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-       
     </div>
 </div>
 </br>
