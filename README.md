@@ -82,7 +82,7 @@
         </a>
         <hr/>
         <p align="center">
-          <a href="https://wakatime.com"><img width="700" src=""https://wakatime.com/share/@3dfca873-cb9c-4d19-91c0-d4846e871c07/d8559e43-3191-4a29-b808-da90e930b614.svg""></a>
+          <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@Krpiszez/be539cfe-801c-4c90-838b-a78fba16bdae.png"></a>
         </p>
     </div>
 </div>
