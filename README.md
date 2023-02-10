@@ -28,7 +28,7 @@
          </tr>
           <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'></td>
-            <td>Merhaba, adım Omer ISIK. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden mezun oldum. 2012 yılına kadar                           Türkiye'de birçok firmada IT bölümünde çesitli pozisyonlarda çalıştım. 2012 yılı sonundan beri Almanya'da yaşamaktayım. Mayıs 2020 yılına kadar aktif                   bir şekilde Sistem ve Ağ Yöneticisi olarak bir firmada çalıştım. Mayıs 2020 den beri çeşitli platformlarda yazılım eğitimi almakta ve bilgilerimi                       güncellemekteyim. Şuan aktif olarak ASP.NET Core, Java ve Unity alanlarında çalışmaktayım.</td>
+            <td>Merhaba, ben Ömer IŞIK. 2015 yılında Celal Bayar Üniversitesi'nden mezun oldum. 2019 yılına kadar bir Enerji Santrali projesinde DataBase'deki tüm materyallerden ve kayıtlarından sorumlu olduğum bir projede çalıştım. 2021 yılı sonundan beri Polonya'da yaşıyorum. 2020 yılı Mayıs ayından bu yana bilgilerimin her zaman güncel olması için çeşitli platformlarda eğitimler alıyorum. Şu anda ASP.NET Core, Java ve Unity alanlarında eğitim alıyorum.</td>
           </tr>
     </tbody>
 </table>
