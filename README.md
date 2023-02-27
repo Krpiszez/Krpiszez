@@ -39,7 +39,7 @@
         <a href="https://github.com/Krpiszez/github-profile-views-counter">
             <img align="center" src="https://komarev.com/ghpvc/?username=Krpiszez&color=blue">
         </a>
-        <a href="https://github.com/fdeniz07?tab=followers">
+        <a href="https://github.com/krpiszez?tab=followers">
             <img align="center"  src="https://img.shields.io/github/followers/Krpiszez?style=flat-square&color=red">
         </a>
     </div>
