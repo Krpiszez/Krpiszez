@@ -23,12 +23,12 @@
     <tbody>
         <tr>
             <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
-            <td>Hello, my name is Omer ISIK. I graduated from Celal Bayar University in 2015. Until 2019 I worked in a Power Plant Project in which I was responsible for all materials and managing their records within DataBase. I've been living in Poland since the end of 2021. Since May 2020 I have been training on various platforms so that my knowledge is always up to date. I am currently training in the areas of ASP.NET Core, Java and Unity.
+            <td>Hello, my name is Omer ISIK. I graduated from Celal Bayar University in 2015. Until 2019 I worked in a Power Plant Project in which I was responsible for all materials and managing their records within DataBase. I've been living in Poland since the end of 2021. Since May 2020 I have been training on various platforms so that my knowledge is always up to date. I am currently training in the areas of ASP.NET Core, Java.
             </td>
          </tr>
           <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'></td>
-            <td>Merhaba, ben Ömer IŞIK. 2015 yılında Celal Bayar Üniversitesi'nden mezun oldum. 2019 yılına kadar bir Enerji Santrali projesinde DataBase'deki tüm materyallerden ve kayıtlarından sorumlu olduğum bir projede çalıştım. 2021 yılı sonundan beri Polonya'da yaşıyorum. 2020 yılı Mayıs ayından bu yana bilgilerimin her zaman güncel olması için çeşitli platformlarda eğitimler alıyorum. Şu anda ASP.NET Core, Java ve Unity alanlarında eğitim alıyorum.</td>
+            <td>Merhaba, ben Ömer IŞIK. 2015 yılında Celal Bayar Üniversitesi'nden mezun oldum. 2019 yılına kadar bir Enerji Santrali projesinde DataBase'deki tüm materyallerden ve kayıtlarından sorumlu olduğum bir projede çalıştım. 2021 yılı sonundan beri Polonya'da yaşıyorum. 2020 yılı Mayıs ayından bu yana bilgilerimin her zaman güncel olması için çeşitli platformlarda eğitimler alıyorum. Şu anda ASP.NET Core, Java alanlarında eğitim alıyorum.</td>
           </tr>
     </tbody>
 </table>
